@@ -3,13 +3,12 @@
 
 ---
 
-## Rad1o LCD Art
+## rad1o LCD Art
 
-Here are some .lcd-files
-	  for your badge.
+Here are some ```.lcd```-files for your badge.
 
 * 33C3 Logo
-* 
+* *more coming soon...*
 
 ### Previews as PNG
 
