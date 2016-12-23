@@ -13,4 +13,4 @@ Here are some .lcd-files
 
 ### Previews as PNG
 
-![33C3 Logo](file://33c3logo.png "33c3 logo")
+![33C3 Logo](https://github.com/trailblazr/33c3/raw/master/33c3logo.png "33c3 logo")
